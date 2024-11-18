@@ -1,25 +1,25 @@
-## AWS Amplify Next.js (App Router) Starter Template
+## AWS Amplify Next.js (App Router) スターターテンプレート
 
-This repository provides a starter template for creating applications using Next.js (App Router) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+このリポジトリは、Next.js (App Router) と AWS Amplify を使用してアプリケーションを作成するためのスターターテンプレートを提供し、認証、API、およびデータベース機能の簡単なセットアップを強調しています。
 
-## Overview
+## 概要
 
-This template equips you with a foundational Next.js application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+このテンプレートは、スケーラビリティとパフォーマンスを重視した AWS Amplify と統合された基本的な Next.js アプリケーションを提供します。Cognito、AppSync、および DynamoDB などの事前構成された AWS サービスを使用してプロジェクトを迅速に開始したい開発者に最適です。
 
-## Features
+## 特徴
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+- **認証**: 安全なユーザー認証のための Amazon Cognito を使用したセットアップ。
+- **API**: AWS AppSync を使用したすぐに使用できる GraphQL エンドポイント。
+- **データベース**: Amazon DynamoDB によって提供されるリアルタイムデータベース。
 
-## Deploying to AWS
+## AWS へのデプロイ
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
+アプリケーションのデプロイに関する詳細な手順については、ドキュメントの [デプロイセクション](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) を参照してください。
 
-## Security
+## セキュリティ
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+詳細については、[CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) を参照してください。
 
-## License
+## ライセンス
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+このライブラリは MIT-0 ライセンスの下でライセンスされています。LICENSE ファイルを参照してください。
